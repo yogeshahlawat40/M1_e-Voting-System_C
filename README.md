@@ -37,6 +37,8 @@ This application was developed in C language to avoid the complexity and to keep
 
 
 High level reqiurements.
+
+
 1.User could be able to login.
 
 2.User could be able to choose the candidtae whom to vote.
@@ -54,6 +56,8 @@ High level reqiurements.
 
 
 Low level requirements.
+
+
 1.admin should be able to ban the candidates who are not eligible for votes.
 
 2.admin should be able to delete the vores of banned students.
@@ -61,4 +65,6 @@ Low level requirements.
 3.User shall be able to save the data User shall be able to see the previous data.
 
 4.User shall be able to work on previous data
+
+
 
