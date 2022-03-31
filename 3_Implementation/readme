@@ -6,3 +6,15 @@ Password: 12345
 No outsider can access the voting Machine without permission...........
 
 Each time it asks voter for unique voter Id:
+
+With successfully entering correct user name and password ,it asks for number of nominated candidates.
+
+For each candidate unique name and symbol is to be assigned.
+
+Post casting vote user get 4 option:
+
+Enter your choice
+1.  Results
+2.  Check leading candidate
+3. Finish your voting
+4.  EXIT the Poll
