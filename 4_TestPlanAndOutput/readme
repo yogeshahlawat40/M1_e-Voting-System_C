@@ -1,0 +1,14 @@
+Voters.csv File contains the list of voters Id .
+
+For Example --If 2 candidate nominated for election and each have unique name and symbol.
+
+Then,  
+
+file1.apk captures the record of 1st candidates i.e. his name, symbol and total votes recieved.
+ 
+Similarly,
+ file2.apk captures the record of 2nd candidates i.e. his name, symbol and total votes recieved.
+ 
+ If there are more candidates in election then file3.apk,file4.apk and so on will be created based on number  of candidates.
+ 
+ Project.exe is executable file of code ................
